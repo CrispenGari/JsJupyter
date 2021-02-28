@@ -1,3 +1,26 @@
+# JsJupyter Notebook
+
+This is a simple React.js Application, Which is a clone of the Jupyter Notebook. The JsJupyter Notebook is like the Jupyter Notebook it allows to evaluate simple JavaScript expression in such as:
+
+- adding numbers
+- subtracting numbers
+- dividing numbers
+- all mathematical expression
+- for complex function evaluation then the user should open the browser Dev Tools
+
+### Demo
+
+![Alt-text]()
+
+### Packages used
+
+- React Icons
+- marked
+
+### This application is using
+
+- React.jsx
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
